@@ -1,0 +1,6 @@
+c:\users\adam\documents\visual studio 2013\Projects\KasaFiskalna\KasaFiskalna\bin\Debug\KasaFiskalna.exe.config
+c:\users\adam\documents\visual studio 2013\Projects\KasaFiskalna\KasaFiskalna\bin\Debug\KasaFiskalna.exe
+c:\users\adam\documents\visual studio 2013\Projects\KasaFiskalna\KasaFiskalna\bin\Debug\KasaFiskalna.pdb
+c:\users\adam\documents\visual studio 2013\Projects\KasaFiskalna\KasaFiskalna\obj\Debug\KasaFiskalna.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2013\Projects\KasaFiskalna\KasaFiskalna\obj\Debug\KasaFiskalna.exe
+c:\users\adam\documents\visual studio 2013\Projects\KasaFiskalna\KasaFiskalna\obj\Debug\KasaFiskalna.pdb
